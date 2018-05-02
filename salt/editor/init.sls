@@ -1,0 +1,2 @@
+gedit:
+  pkg.installed
